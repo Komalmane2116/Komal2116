@@ -13,7 +13,7 @@ Computer Engineering Graduate passionate about Software Development, Full Stack 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Komalmane2116&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Komalmane2116&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Komalmane2116&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Komalmane2116&theme=radical&no-frame=false&no-bg=false&margin-w=4)
